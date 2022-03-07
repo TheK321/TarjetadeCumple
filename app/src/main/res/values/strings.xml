@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppTarjeta</string>
+    <string name="strFirma">De: Mario</string>
+    <string name="plh_remitente">De parte de quién</string>
+    <string name="str_paraquien">Para quién</string>
+    <string name="strPedirDatos">Ingresar datos</string>
+    <string name="strAceptar">Aceptar</string>
+</resources>
